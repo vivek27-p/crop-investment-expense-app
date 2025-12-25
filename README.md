@@ -7,6 +7,8 @@ This project aims to build a real-world **AgriTech application** that helps trac
 - Crop-wise total investment and returns
 
 The goal is to create a **useful and scalable product** for farmers and agri-investors.
+<img width="664" height="526" alt="image" src="https://github.com/user-attachments/assets/3ea2905c-5515-4b9c-a427-4c2810b8632e" />
+
 
 ---
 
